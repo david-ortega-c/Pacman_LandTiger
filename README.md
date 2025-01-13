@@ -7,7 +7,7 @@ This is a project made for the Computer Architectures Masters Class at Politecni
 
 1. Download ARM Keil uVision 5 
 2. Download software pack for board NXP LPC1768 
-3. Open the [Project file](12_sample_GLCD_TP/12_sample_GLCD_TP/Source)
+3. In the [Project directory](12_sample_GLCD_TP/12_sample_GLCD_TP/Source) open the file *sample.uvprojx*
 
 
 
